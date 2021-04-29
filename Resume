@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang=en>
+<head>
+<meta charset="utf-8" />
+<meta name="verify-v1" content="91yIG+EaOdwKuPX+R9ChHEWVXJ6wdQsq0gqD1c1sbaY="/>
+<title>David Shapiro, Resume- Web Developer</title>
+<style type="text/css">
+body{font-family:Geneva, Arial, Helvetica, sans-serif;font-size:12px;font-weight:normal;color:#000000;text-align:center;margin:0;padding:0;line-height:1.5em;}
+header, section, article{display:block;}
+header{text-align:center;position:relative;z-index:1;}
+section{margin:20px 0 10px;padding:0;}
+p{margin-top:0;padding:0;}
+ul, ol{margin:10px 0 0;padding:0;}
+h1{margin:5px;font-size:2em;font-weight:bold;}
+h2{font-size:1.4em;font-style:italic;font-weight:bold;margin:5px 0;}
+h5{margin:20px 0 10px;font-size:1.2em;font-weight:bold;}
+a, a:link, a:visited{border:medium none;text-decoration:none;color:#009;cursor:pointer;}
+#resumecontainer{background-color:#F6F6F6;text-align:left;padding:20px;margin:20px auto;min-width:300px;max-width:600px;position:relative;}
+header p{margin:5px;}
+#links img{border:0 none;}
+.skills{margin:10px 10px;}
